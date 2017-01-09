@@ -1,4 +1,7 @@
 'use strict';
+// import 'bootstrap-css';
+// import './static/css/base.css';
+// import './static/css/style.css';
 
 var n = 4, // The number of series.
     m = 58; // The number of values per series.

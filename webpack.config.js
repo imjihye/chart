@@ -1,7 +1,7 @@
 'use strict';
 
 var config ={
-	entry: './src/ex.js',
+	entry: './src/chart.js',
 	output: {
 		path: __dirname + '/dist',
 		filename: 'bundle.js'
